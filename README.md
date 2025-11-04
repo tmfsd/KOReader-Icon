@@ -5,5 +5,5 @@ New icon for the KOReader app on PocketBook devices that fit the style of the cu
 
 **Only tested on a PocketBook Era Color!**
 
-Instructions for how to change the app icon can be found here: https://github.com/jjrrw174/PocketBook-Desktop-and-App-Customizations/tree/main
+Instructions for how to change the app icon (and the name of the app) can be found here: https://github.com/jjrrw174/PocketBook-Desktop-and-App-Customizations/tree/main
 
